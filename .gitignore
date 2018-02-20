@@ -2,4 +2,4 @@
 *.bak
 
 # Locally ignore temp folder
-./tmp
+tmp/
